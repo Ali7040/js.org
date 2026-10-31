@@ -187,4 +187,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
-config.bat
+
+# env files (restored after malware removed this)
+.env
+.env.*
+!.env.example
